@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+torch
+torchinfo
+optuna
+xgboost
+catboost
+lightgbm
+imbalanced-learn
